@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dict>
+  <Words>
+    <!-- 
+    <Word Name="White" Category="Color" Pic=""/>
+    <Word Name="Black" Category="Color" Pic=""/>
+    <Word Name="Red" Category="Color" Pic=""/>
+    <Word Name="Orange" Category="Color" Pic=""/>
+    <Word Name="Yellow" Category="Color" Pic=""/>
+    <Word Name="Green" Category="Color" Pic=""/>
+    <Word Name="Blue" Category="Color" Pic=""/>
+    <Word Name="Gray" Category="Color" Pic=""/>
+    <Word Name="Purple" Category="Color" Pic=""/>
+
+    <Word Name="Zero" Category="Number" Pic=""/>
+    <Word Name="One" Category="Number" Pic=""/>
+    <Word Name="Two" Category="Number" Pic=""/>
+    <Word Name="Three" Category="Number" Pic=""/>
+    <Word Name="Four" Category="Number" Pic=""/>
+    <Word Name="Five" Category="Number" Pic=""/>
+    <Word Name="Six" Category="Number" Pic=""/>
+    <Word Name="Seven" Category="Number" Pic=""/>
+    <Word Name="Eight" Category="Number" Pic=""/>
+    <Word Name="Nine" Category="Number" Pic=""/>
+    <Word Name="Ten" Category="Number" Pic=""/>
+    <Word Name="Eleven" Category="Number" Pic=""/>
+    <Word Name="Twelve" Category="Number" Pic=""/>
+    -->
+    <Word Name="Run" Category="Verb" Pic="Run.png"/>
+    <Word Name="Sleep" Category="Verb" Pic="Sleep.png"/>
+    <Word Name="Eat" Category="Verb" Pic="Eat.png"/>
+    <Word Name="Drink" Category="Verb" Pic="Drink.png"/>
+    <Word Name="Dance" Category="Verb" Pic="dance.png"/>
+    <Word Name="Walk" Category="Verb" Pic="Walk.png"/>
+    <Word Name="Smile" Category="Verb" Pic="Smile.png"/>
+    <Word Name="Work" Category="Verb" Pic="Work.png"/>
+    <Word Name="Read" Category="Verb" Pic="Read.png"/>
+    <Word Name="Write" Category="Verb" Pic="Write.png"/>
+    <Word Name="Sing" Category="Verb" Pic="Sing"/>
+
+    <Word Name="Book" Category="Object" Pic="Book.png"/>
+    <Word Name="Pen" Category="Object" Pic="Pen.png"/>
+    <Word Name="Newspaper" Category="Object" Pic="Newspaper.png"/>
+    <Word Name="Computer" Category="Object" Pic="Computer.png"/>
+    <Word Name="Phone" Category="Object" Pic="Phone.png"/>
+    <Word Name="Cigarette" Category="Object" Pic="Cigarette.png"/>
+    
+    <Word Name="Spring" Category="Seasons" Pic="Spring.png"/>
+    <Word Name="Summer" Category="Seasons" Pic="Summer.png"/>
+    <Word Name="Autumn" Category="Seasons" Pic="Autumn.png"/>
+    <Word Name="Winter" Category="Seasons" Pic="Winter.png"/>
+
+    <Word Name="Rain" Category="Weather" Pic="Rain.png"/>
+    <Word Name="Snow" Category="Weather" Pic="Snow.png"/>
+    <Word Name="Sunny" Category="Weather" Pic="Sunny.png"/>
+    <Word Name="Cloudy" Category="Weather" Pic="Cloudy.png"/>
+    
+    <Word Name="Cup" Category="Kitchen" Pic="Cup.png"/>
+    <Word Name="Spoon" Category="Kitchen" Pic="Spoon.png"/>
+    <Word Name="Fork" Category="Kitchen" Pic="Fork.png"/>
+    <Word Name="Knife" Category="Kitchen" Pic="Knife.png"/>
+    <Word Name="Plate" Category="Kitchen" Pic="Plate.png"/>
+    <Word Name="Glass" Category="Kitchen" Pic="Glass.png"/>
+    <Word Name="Bottle" Category="Kitchen" Pic="Bottle.png"/>
+
+    <Word Name="Man" Category="People" Pic="Man.png"/>
+    <Word Name="Woman" Category="People" Pic="Woman.png"/>
+    <Word Name="Boy" Category="People" Pic="Boy.png"/>
+    <Word Name="Girl" Category="People" Pic="Girl.png"/>
+    <Word Name="Worker" Category="People" Pic="Worker.png"/>
+    <Word Name="Mother" Category="People" Pic="Mother.png"/>
+    <Word Name="Baby" Category="People" Pic="Baby.png"/>
+
+    <Word Name="Pizza" Category="Food" Pic="Pizza.png"/>
+    <Word Name="Meat" Category="Food" Pic="Meat.png"/>
+    <Word Name="Salad" Category="Food" Pic="Salad.png"/>
+    <Word Name="Hamburger" Category="Food" Pic="Hamburger.png"/>
+    <Word Name="Cake" Category="Food" Pic="Cake.png"/>
+    <Word Name="Fish" Category="Food" Pic="Fish.png"/>
+
+    <Word Name="Trousers" Category="Dress" Pic="Trousers.png"/>
+    <Word Name="Shirt" Category="Dress" Pic="Shirt.png"/>
+    <Word Name="Hat" Category="Dress" Pic="Hat.png"/>
+    <Word Name="Glasses" Category="Dress" Pic="Glasses.png"/>
+    <Word Name="Dress" Category="Dress" Pic="Dress.png"/>
+    <Word Name="Shoes" Category="Dress" Pic="Shoes.png"/>
+    <Word Name="Slippers" Category="Dress" Pic="Slippers.png"/>
+  </Words>
+  <Categories>
+    <Category Key="*" Name="All" Pic=""/>
+    <Category Key="Verb" Name="Verbs" Pic="Run.png"/>
+    <Category Key="Object" Name="Everyday Objects" Pic="Pen.png"/>
+    <Category Key="Seasons" Name="Seasons" Pic="Winter.png"/>
+    <Category Key="Weather" Name="Weather" Pic="Rain.png"/>
+    <Category Key="Kitchen" Name="Kitchen" Pic="Fork.png"/>
+    <Category Key="People" Name="People" Pic="Girl.png"/>
+    <Category Key="Food" Name="Food" Pic="Pizza.png"/>
+    <Category Key="Dress" Name="Dress" Pic="Dress.png"/>
+  </Categories>
+</Dict>
